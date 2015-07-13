@@ -17,4 +17,5 @@
     "express-partial": "~0.1.0",
     "express-ejs-layouts": "~1.1.0"
   }
+
 }
